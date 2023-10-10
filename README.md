@@ -4,11 +4,13 @@ Technically speaking I have experience of about 5 years in software engineering/
 
 Passionate, dedicated, and diligent professional experience in Golang.
 
-- Languages: C,Golang, Python, C#
+- Languages: C, Golang, Python, C#.
 
 - Frameworks: Gin-gonic , Gorilla/Mux, Websocket, socket.io, flask/fast API, .Net.
 
 - Database: SQL Server, PostgreSQL.
+
+- Communication Mediaum: REST, SOAP, GraphQL, gRPC, Websocket.
 
 - Frontend : ReactJS , jQuery , javascript , HTML/CSS.
 
@@ -16,11 +18,13 @@ Passionate, dedicated, and diligent professional experience in Golang.
 
 - Cloud: AWS, GCP, Azure.
 
+- CICD: CircleCI, UP (Uber Production), github Actions.
+
 - Tools: Git, TFS, Crystal report, Postman, Gembox Software, Bazel.
 
 - Scripting: Bash.
 
-- Project Management: Agile , Jira.
+- Project Management: Agile , Jira, Confluence.
 
 - Others: gRPC, Twirp, Data-Dog, Mockery, MQTT ,Chirpstack , Slack-JIRA integration.
 
