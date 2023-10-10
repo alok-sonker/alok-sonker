@@ -4,29 +4,29 @@ Technically speaking I have experience of about 5 years in software engineering/
 
 Passionate, dedicated, and diligent professional experience in Golang.
 
-- Languages: C, Golang, Python, C#.
+**- Languages: **C, Golang, Python, C#.
 
-- Frameworks: Gin-gonic , Gorilla/Mux, Websocket, socket.io, flask/fast API, .Net.
+**- Frameworks: **Gin-gonic , Gorilla/Mux, Websocket, socket.io, flask/fast API, .Net.
 
-- Database: SQL Server, PostgreSQL.
+**- Database: **SQL Server, PostgreSQL.
 
-- Communication Mediaum: REST, SOAP, GraphQL, gRPC, Websocket.
+**- Communication Mediaum: **REST, SOAP, GraphQL, gRPC, Websocket.
 
-- Frontend : ReactJS , jQuery , javascript , HTML/CSS.
+**- Frontend : **ReactJS , jQuery , javascript , HTML/CSS.
 
-- DevOps: Docker, Kubernetes.
+**- DevOps: **Docker, Kubernetes.
 
-- Cloud: AWS, GCP, Azure.
+**- Cloud: **AWS, GCP, Azure.
 
-- CICD: CircleCI, UP (Uber Production), github Actions.
+**- CICD: **CircleCI, UP (Uber Production), github Actions.
 
-- Tools: Git, TFS, Crystal report, Postman, Gembox Software, Bazel.
+**- Tools: **Git, TFS, Crystal report, Postman, Gembox Software, Bazel.
 
-- Scripting: Bash.
+**- Scripting: **Bash.
 
-- Project Management: Agile , Jira, Confluence.
+**- Project Management: **Agile , Jira, Confluence.
 
-- Others: gRPC, Twirp, Data-Dog, Mockery, MQTT ,Chirpstack , Slack-JIRA integration.
+**- Others: **gRPC, Twirp, Data-Dog, Mockery, MQTT ,Chirpstack , Slack-JIRA integration.
 
 <!--- - 👋 Hi, I’m @alok-sonker
 - 👀 I’m interested in ...
