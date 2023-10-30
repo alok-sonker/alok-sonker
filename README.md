@@ -6,13 +6,13 @@ Passionate, dedicated, and diligent professional experience in Golang.
 
 - **Languages**: C, Golang, Python, C#.
 
-- **Frameworks**: Gin-gonic , Gorilla/Mux, Websocket, socket.io, flask/fast API, .Net.
+- **Frameworks**: Gin-gonic, Gorilla/Mux, Websocket, socket.io, flask/fast API, .Net.
 
 - **Database**: SQL Server, PostgreSQL.
 
 - **Communication Mediaum**: REST, SOAP, GraphQL, gRPC, Websocket.
 
-- **Frontend**: ReactJS , jQuery , javascript , HTML/CSS.
+- **Frontend**: ReactJS, jQuery, javascript, HTML/CSS.
 
 - **DevOps**: Docker, Kubernetes.
 
@@ -24,9 +24,9 @@ Passionate, dedicated, and diligent professional experience in Golang.
 
 - **Scripting**: Bash.
 
-- **Project Management**: Agile , Jira, Confluence.
+- **Project Management**: Agile, Jira, Confluence.
 
-- **Others**: gRPC, Twirp, Data-Dog, Mockery, MQTT ,Chirpstack , Slack-JIRA integration.
+- **Others**: gRPC, Twirp, Data-Dog, Mockery, MQTT, Redish, Chirpstack, Slack-JIRA integration.
 
 <!--- - 👋 Hi, I’m @alok-sonker
 - 👀 I’m interested in ...
