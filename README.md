@@ -1,6 +1,6 @@
 I would describe myself as a rationalist with a keen interest in coding and like to learn things related to technology and science. I am a quick learner and my objective in life is to be a part of something that brings about a change and would happily contribute to causing.
 
-Technically speaking I have 6 years of experience in software engineering/full-stack development/product development/IoT.
+Technically speaking I have 7 years of experience in software engineering/full-stack development/product development/IoT.
 
 Passionate, dedicated, and diligent professional experience in Golang.
 
